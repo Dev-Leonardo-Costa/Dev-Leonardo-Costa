@@ -1,10 +1,22 @@
 
-### Olá! Eu Sou o Leonardo Costa 🙋🏼
+ <h1>Oi Tudo bem? Eu sou o Leonardo Costa 😃️</h1>
+ 
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-costa-3558801b4/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a_leonardo.s_c/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Leonardo-Costa&show_icons=true&theme=merko)
+<div>
+  <a href="https://github.com/duribeiro">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dev-Leonardo-Costa&count_private=true&include_all_commits=true&show_icons=true&theme=merko&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Leonardo-Costa&theme=merko&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+
+<div>
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 
 ### Tecnologias que eu tive experiência, que uso no meu dia 
