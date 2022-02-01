@@ -38,11 +38,6 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> 
 </div><br/>
 
-### 📚-Estudando na Faculdade CDL, Analise e Desenvolvimento de Sistema. 
-
 ### 🖥️-Foco Em Desenvolvimento Web.  
-
+### 📚-Estudando na Faculdade CDL, Analise e Desenvolvimento de Sistema. 
 ### 🦅-Nossa maior fraqueza está em desistir. O caminho mais certo de vencer é tentar mais uma vez, Amanhã vai ser melhor. Tente de novo. Faça mais uma vez. Pratique um pouco todos os dias. 
-
-### 🥰-Apaixonado Por Tecnologia, Educação E Por Mudar A Vida Das Pessoas Através Da Programação. 
-</div>
