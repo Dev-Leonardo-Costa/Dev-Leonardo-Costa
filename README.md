@@ -40,4 +40,4 @@
 
 ### 🖥️-Foco Em Desenvolvimento Web.  
 ### 📚-Estudando na Faculdade CDL, Analise e Desenvolvimento de Sistema. 
-### 🦅-Nossa maior fraqueza está em desistir. O caminho mais certo de vencer é tentar mais uma vez, Amanhã vai ser melhor. Tente de novo. Faça mais uma vez. Pratique um pouco todos os dias. 
+### 🦅-Nossa maior fraqueza está em desistir. O caminho mais certo de vencer é tentar mais uma vez, Amanhã vai ser melhor. Tente de novo. faça mais uma vez. Pratique um pouco todos os dias. O que vai realmente te ajudar a crescer é a constância.
