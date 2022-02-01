@@ -42,7 +42,7 @@
 
 ### 🖥️-Foco Em Desenvolvimento Web.  
 
-### 🦅-Nossa maior fraqueza está em desistir. O caminho mais certo de vencer é tentar mais uma vez.
+### 🦅-Nossa maior fraqueza está em desistir. O caminho mais certo de vencer é tentar mais uma vez, Amanhã vai ser melhor. Tente de novo. Faça mais uma vez. Pratique um pouco todos os dias. 
 
 ### 🥰-Apaixonado Por Tecnologia, Educação E Por Mudar A Vida Das Pessoas Através Da Programação. 
 </div>
