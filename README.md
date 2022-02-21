@@ -3,7 +3,7 @@
 </div></br>
 
 <p align="center">
-  <img height="520px" src="https://github.com/ValdirCezar/Autenticacao-Tokens-JWT/blob/master/src/imd-readme.gif?raw=true" />
+  <img height="400px" src="https://github.com/ValdirCezar/Autenticacao-Tokens-JWT/blob/master/src/imd-readme.gif?raw=true" />
 
 <p align="center">
 	<a href="https://github.com/Dev-Leonardo-Costa"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
