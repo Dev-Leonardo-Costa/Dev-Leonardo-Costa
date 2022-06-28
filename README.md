@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=FF4500" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/css%20-%23F7DF1E.svg?&style=for-the-badge&color=FF0000" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Vue js%20-%23F7DF1E.svg?&style=for-the-badge&color=008000" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Angular%20-%23F7DF1E.svg?&style=for-the-badge&color=008000" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap%20-%23F7DF1E.svg?&style=for-the-badge&color=7044A3" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?&style=for-the-badge&color=7B68EE" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Git flow%20-%23F7DF1E.svg?&style=for-the-badge&color=FF0000" />&nbsp;&nbsp;
