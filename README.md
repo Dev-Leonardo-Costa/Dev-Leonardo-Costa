@@ -1,5 +1,5 @@
 <div>
- <h1 align="center">Òla me chamo Leonardo! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"></h2>
+ <h1 align="center">Òla me chamo Leonardo! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true"></h2>
 </div></br>
 
 <p align="center">
