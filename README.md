@@ -1,5 +1,5 @@
 <div>
- <h1 align="center">Òla me chamo Leonardo!
+ <h1 align="center"> Óla  chamo Leonardo!
  <img height="80px" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true">
  </h1>
 </div></br>
@@ -34,7 +34,3 @@
 	<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Leonardo-Costa&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
 	</a>
 </p> 	
-
-<div align="center">
-  	![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-</div>
