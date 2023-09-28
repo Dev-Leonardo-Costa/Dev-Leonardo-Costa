@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40&center=true&vCenter=true&width=1000&lines=Hi,+I'm++Leonardo+Costa;I+live+In+Fortaleza-CE;System+Analyst+And+Developer;Welcome!)](https://git.io/typing-svg)
 
 <div align="center">
-  	<img height="300px" src="https://github.com/ValdirCezar/Autenticacao-Tokens-JWT/blob/master/src/imd-readme.gif?raw=true"/>
+  	<img height="520px" src="https://github.com/ValdirCezar/Autenticacao-Tokens-JWT/blob/master/src/imd-readme.gif?raw=true"/>
 </div><br>
 <div align="center"> 
 <a href="https://instagram.com/#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
